@@ -27,14 +27,14 @@ def main():
 
     # Display results
     print("=" * 50)
-    print(f"Найбільше значення цільової функції:\n\t{max_res['obj']}")
-    print(f"Значення змінних:\n\t"
+    print(f"Maximum of target function:\n\t{max_res['obj']}")
+    print(f"Variables:\n\t"
           f"x1 = {max_res['x1']}\n\t"
           f"x2 = {max_res['x2']}")
 
     print("=" * 50)
-    print(f"Найменше значення цільової функції:\n\t{min_res['obj']}")
-    print(f"Значення змінних:\n\t"
+    print(f"Minimum of target function:\n\t{min_res['obj']}")
+    print(f"Variables:\n\t"
           f"x1 = {min_res['x1']}\n\t"
           f"x2 = {min_res['x2']}")
     print("=" * 50)
