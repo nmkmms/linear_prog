@@ -1,1 +1,6 @@
-#Linear prog Laboratory #2 for a Optimization Techniques and Operations Research. Object is to find minimum and maximum of target function in system of linear equations.
+Laboratory #2 for a Optimization Techniques and Operations Research. Object is to find minimum and maximum of target function in system of linear equations.
+
+
+To run first install requirements using pip:
+
+pip install -r requirements.txt
